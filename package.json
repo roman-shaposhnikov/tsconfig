@@ -1,0 +1,25 @@
+{
+  "name": "tsconfig",
+  "version": "0.0.0",
+  "license": "ISC",
+  "type": "module",
+  "author": "Roman Shaposhnikov <roman_shaposhnikov_pub@mail.ru>",
+  "description": "Base tsconfig ready to be extended in your project",
+  "keywords": [
+    "ts",
+    "typescript",
+    "config",
+    "tsconfig"
+  ],
+  "homepage": "https://github.com/roman-shaposhnikov/tsconfig#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roman-shaposhnikov/tsconfig"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "typescript": ">=5.8.0"
+  }
+}
